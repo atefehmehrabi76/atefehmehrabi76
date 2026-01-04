@@ -24,7 +24,7 @@
 <p align="left">
   <a href="https://instagram.com/mirasdevs" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirasdevs" height="30" width="40" />
-    <img align="center" src="https://www.linkedin.com/in/atefeh-mehrabi-971370269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="mirasdevs" height="30" width="40" />
+    <img align="center" src="in/atefeh-mehrabi-971370269" alt="mirasdevs" height="30" width="40" />
     
   </a>
 </p>
