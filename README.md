@@ -1,7 +1,7 @@
 
 
 <p align="left">
-  <img src="https://mirasholding.com/wp-content/uploads/2025/03/cover.jpg" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_jHWQ-XLjDkHlCOazRsSb-U38LpTOES_ew&s" />
 </p>
 
 <p align="left">
