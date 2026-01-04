@@ -1,7 +1,7 @@
 
 
 <p align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo8vcTSeLHV1PEM4KCkvl__zPgfeOfgmng6A&s" width="400" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo8vcTSeLHV1PEM4KCkvl__zPgfeOfgmng6A&s" width="400" text-align="center" />
 </p>
 
 <p align="left">
