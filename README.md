@@ -29,7 +29,7 @@
 
 ## 🛠 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,git,ts,js)
+![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,git,ts,js,tailwind)
 
 ## 💬 Daily Dev Quote
 
