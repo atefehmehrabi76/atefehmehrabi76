@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=mirasholding1011-ai&label=Profile%20views&color=0e75b6&style=flat" alt="mirasholding1011-ai" />
 </p>
 
-## ✨ About Us
+## ✨ About Me
 
 <p align="center">
   <picture>
