@@ -20,7 +20,7 @@
 
 ## 🌐 Socials
 
-<h3 align="left">Connect with us:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">  
 
   <a href="https://www.linkedin.com/in/atefeh-mehrabi-971370269/" target="_blank">
